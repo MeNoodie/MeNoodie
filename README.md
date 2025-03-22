@@ -6,18 +6,17 @@
 
 ### 🛠️ Tech Stack & Skills
 
-- **Languages:** Python 🐍 | JavaScript 🧑‍💻 | C++ ⚡  
+- **Languages:** Python 🐍 | data visuvisualization 🧑‍💻 | C ⚡  
 - **Frameworks & Libraries:** Flask 🌐 | Django 🚀 | Tkinter 🖥️ | Pandas 📊 | NumPy 🔢  
-- **Databases:** MySQL 🗄️ | MongoDB 🍃  
-- **Dev Tools:** Git & GitHub 🌍 | Bash 💻 | Docker 🐳  
-- **Other Interests:** AI/ML 🤖 | Cybersecurity 🔒 | IoT 🌍 | 3D Modeling 🎨
+- **Databases:** MySQL 🗄️   
+- **Dev Tools:** Git & GitHub 🌍 | Bash 💻 |  
+- **Other Interests:** AI/ML 🤖 | Cybersecurity 🔒 | IoT 🌍 | 3D Modeling 🎨 | CAD 
 
 ---
 
 ### 📌 Projects & Contributions
 
-🔹 **CLI Graph Generator** – Instantly create graphs from X-Y data input ⚡📊  
-🔹 **Responsible Gaming Model** – Promoting gaming transparency 🎮  
+🔹 **CLI Graph Generator** – Instantly create graphs from X-Y data input ⚡📊     
 🔹 **Techies Community** – A space for tech enthusiasts to collaborate! 🚀  
 
 💡 Always exploring new ideas & enhancing projects. Feel free to check out my repositories!
