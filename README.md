@@ -6,7 +6,7 @@
 
 ### 🛠️ Tech Stack & Skills
 
-- **Languages:** Python 🐍 | data visuvisualization 🧑‍💻 | C ⚡  
+- **Languages:** Python 🐍  | C ⚡  
 - **Frameworks & Libraries:** Flask 🌐 | Django 🚀 | Tkinter 🖥️ | Pandas 📊 | NumPy 🔢  
 - **Databases:** MySQL 🗄️   
 - **Dev Tools:** Git & GitHub 🌍 | Bash 💻 |  
