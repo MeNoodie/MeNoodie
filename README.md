@@ -27,13 +27,14 @@
 
 ![Piyush Kumar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Piyush-Kumar&show_icons=true&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Piyush-Kumar&layout=compact&theme=tokyonight)
-Python 
+
 ---
 
 ### 📫 Let's Connect!
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile) 
+
+[![Python Version](https://img.shields.io/badge/python-3.8%2B-blue)](https://www.python.org/)
 
 
 🌟 **“Code, Innovate, Repeat!”** 🌟
